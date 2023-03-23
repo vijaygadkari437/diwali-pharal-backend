@@ -1,0 +1,19 @@
+{
+  "name": "diwali-pharal-backend",
+  "version": "1.0.0",
+  "description": "diwali-pharal-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygadkari437/diwali-pharal-backend.git"
+  },
+  "author": "vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaygadkari437/diwali-pharal-backend/issues"
+  },
+  "homepage": "https://github.com/vijaygadkari437/diwali-pharal-backend#readme"
+}
